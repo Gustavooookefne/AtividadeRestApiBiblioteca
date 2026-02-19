@@ -1,0 +1,13 @@
+com\example\biblioteca\Controller\EmprestimoController.class
+com\example\biblioteca\Model\Emprestimo.class
+com\example\biblioteca\Repository\LivroRepository.class
+com\example\biblioteca\Service\LivroService.class
+com\example\biblioteca\Service\EmprestimoService.class
+com\example\biblioteca\Service\UsuarioService.class
+com\example\biblioteca\Model\Livro.class
+com\example\biblioteca\Model\Usuario.class
+com\example\biblioteca\Main.class
+com\example\biblioteca\Controller\LivroController.class
+com\example\biblioteca\Repository\EmprestimoRepository.class
+com\example\biblioteca\Utils\Conexao.class
+com\example\biblioteca\Repository\UsuarioRepository.class
